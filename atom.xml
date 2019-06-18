@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://denghulk.cn/</id>
-    <title>denghulk</title>
-    <updated>2019-06-18T04:34:24.533Z</updated>
+    <title>Denghulk Blog</title>
+    <updated>2019-06-18T04:37:05.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://denghulk.cn/"/>
     <link rel="self" href="https://denghulk.cn//atom.xml"/>
     <subtitle>终身学习  独立人格</subtitle>
     <logo>https://denghulk.cn//images/avatar.png</logo>
     <icon>https://denghulk.cn//favicon.ico</icon>
-    <rights>All rights reserved 2019, denghulk</rights>
+    <rights>All rights reserved 2019, Denghulk Blog</rights>
     <entry>
         <title type="html"><![CDATA[HELLO]]></title>
         <id>https://denghulk.cn//post/hello</id>
