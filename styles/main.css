@@ -12543,3 +12543,8 @@ html[xmlns] .flexslider .slides {
 .pagination-box .next:hover {
   color: #92abf5;
 }
+
+      body {
+        background: #ced4da;
+      }
+    
