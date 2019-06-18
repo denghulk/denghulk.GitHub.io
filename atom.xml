@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://denghulk.cn/</id>
     <title>Denghulk.CN</title>
-    <updated>2019-06-18T03:52:50.823Z</updated>
+    <updated>2019-06-18T03:58:54.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://denghulk.cn/"/>
     <link rel="self" href="https://denghulk.cn//atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://denghulk.cn//images/avatar.png</logo>
     <icon>https://denghulk.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, Denghulk.CN</rights>
+    <entry>
+        <title type="html"><![CDATA[HELLO]]></title>
+        <id>https://denghulk.cn//post/hello</id>
+        <link href="https://denghulk.cn//post/hello">
+        </link>
+        <updated>2019-06-18T03:55:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="hello-world-我也爱这个世界">Hello World 我也爱这个世界</h2>
+<p><img src="01.png" alt="Image"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://denghulk.cn//post/hello-gridea</id>
