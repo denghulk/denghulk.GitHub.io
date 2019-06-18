@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://denghulk.cn/</id>
     <title>Denghulk</title>
-    <updated>2019-06-18T05:20:28.996Z</updated>
+    <updated>2019-06-18T05:28:56.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://denghulk.cn/"/>
     <link rel="self" href="https://denghulk.cn//atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://denghulk.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, Denghulk</rights>
     <entry>
-        <title type="html"><![CDATA[幻灯片的设计建议 ]]></title>
+        <title type="html"><![CDATA[幻灯片的设计建议]]></title>
         <id>https://denghulk.cn//post/ PPT</id>
         <link href="https://denghulk.cn//post/ PPT">
         </link>
         <updated>2019-06-18T05:15:38.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://denghulk.cn//post-images/1560835205125.png" alt="">
+        <content type="html"><![CDATA[<p>——比身边的人多懂一点设计
 <img src="https://denghulk.cn//post-images/1560835119921.png" alt="">
 <img src="https://denghulk.cn//post-images/1560835126105.png" alt="">
 <img src="https://denghulk.cn//post-images/1560835129894.png" alt="">
@@ -25,7 +25,24 @@
 <img src="https://denghulk.cn//post-images/1560835143282.png" alt="">
 <img src="https://denghulk.cn//post-images/1560835145956.png" alt="">
 <img src="https://denghulk.cn//post-images/1560835147851.png" alt="">
-<img src="https://denghulk.cn//post-images/1560835149917.png" alt=""></p>
+<img src="https://denghulk.cn//post-images/1560835149917.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835619663.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835626103.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835629660.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835634992.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835637661.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835642717.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835650234.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835655074.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835660576.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835664807.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835668610.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835671307.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835674082.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835682559.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835685390.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835688748.png" alt="">
+<img src="https://denghulk.cn//post-images/1560835696241.png" alt=""></p>
 ]]></content>
     </entry>
     <entry>
