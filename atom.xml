@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://denghulk.GitHub.io/</id>
     <title>Denghulk</title>
-    <updated>2019-06-19T10:29:05.586Z</updated>
+    <updated>2019-06-20T06:54:30.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://denghulk.GitHub.io/"/>
     <link rel="self" href="https://denghulk.GitHub.io//atom.xml"/>
@@ -29,19 +29,19 @@
 <img src="https://denghulk.GitHub.io//post-images/1560836749055.png" alt="用视觉的力量辅助口语演讲"></p>
 <p align="center">`用视觉的力量辅助口语演讲`</p>
 <p>当然，如果你的演讲内容无需任何视觉辅助，或者要给观众留下自行想象的空间。那么幻灯片就没有必要，过度的视觉展示甚至会让观众分心。TED 上面不乏无需幻灯片的演讲，比如 Ken Robinson 的演讲 <a href="https://open.163.com/movie/2006/2/V/E/M7SP3QUET_M7SP3T0VE.html">《学校扼杀创造力？》</a> 就没有使用幻灯片，效果也非常好。
-<img src="https://denghulk.GitHub.io//post-images/1560836766890.png" alt="">
-Ken Robinson 的演讲《学校扼杀创造力？》</p>
-<h1 id="你要做哪种幻灯片">你要做哪种幻灯片</h1>
+<img src="https://denghulk.GitHub.io//post-images/1560836766890.png" alt=""></p>
+<p align="center">`Robinson 的演讲《学校扼杀创造力？》`</p>Ken 
+# 你要做哪种幻灯片
 <p>幻灯片作为演讲的辅助工具，可以分为两类。一种是「<strong>用来讲的幻灯片」</strong>，另一种是「<strong>用来看的幻灯片」。</strong></p>
 <h2 id="用来讲的幻灯片">用来讲的幻灯片</h2>
 <p>大部分的公开演讲，通常会用「用来讲的幻灯片」。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013282456.png" alt="">
 用来讲的幻灯片
 此类幻灯片的特点是，看上去非常简洁，字少，如果你不听演讲只看幻灯片的话，可能完全看不懂。这种幻灯片要求演讲者能够<strong>传达所有内容</strong>，幻灯片的内容作为补充和重点。
 用来讲的幻灯片主要用于公开演讲、产品发布、作品展示等场景。</p>
 <h2 id="用来看的幻灯片">用来看的幻灯片</h2>
 <p>老师上课时使用幻灯片，就是典型的「用来看的幻灯片」。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013310459.png" alt="">
 用来看的幻灯片
 此类幻灯片的特点是，看上去比较复杂，密密麻麻全是字。知识点、笔记等等东西都在上面，很大程度上代替了老师的板书。用来看的幻灯片只要求演讲者可以**解释幻灯片中的内容，**幻灯片中的内容才是重点。
 用来看的幻灯片主要用于数据分析、课件、报告等等场景。
@@ -61,16 +61,16 @@ Ken Robinson 的演讲《学校扼杀创造力？》</p>
 </ol>
 <p>下面我们以《如何给 iPhone X 关机》为例，做一个三页的幻灯片以展示幻灯片制作流程：</p>
 <h2 id="1-逐字演讲稿">1. 逐字演讲稿</h2>
-<p><img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.gif" alt="">
+<p><img src="https://denghulk.GitHub.io//post-images/1561013331954.gif" alt="">
 撰写逐字演讲稿
 虽然逐字演讲稿听起来可能有些夸张， 但这和长图制作流程中的「通读全文」类似，是对演讲内容的进一步理解和确定。写出逐字演讲稿之后，我们便知道讲到某段时，某页幻灯片上应该呈现什么内容。如果在幻灯片制作的过程中没有逐字稿，就会导致每页的内容都模糊不定，幻灯片不能和演讲节奏对应，最后仍然需要花费大量时间反复修改打磨。</p>
 <h2 id="2-幻灯片分页稿">2. 幻灯片分页稿</h2>
-<p><img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.gif" alt="">
+<p><img src="https://denghulk.GitHub.io//post-images/1561013354433.gif" alt="">
 由逐字稿变成分页稿
 接下来是将逐字演讲稿分成一页页的幻灯片，把每页幻灯片讲什么确定下来。幻灯片的分页可以根据演讲稿中分段而来，比如说在一场手机发布会上，演讲稿中关于屏幕的一段可以作为一页；讲解电池和充电又可以是一页；讲解音效的部分又是一页。
 幻灯片分页稿的目的在于对幻灯片做出初步的安排，看看和演讲配合起来是否合理。你可以用粗框的方式，把每页的内容规划出来，不需要进行进一步的设计。</p>
 <h2 id="3-制作幻灯片">3. 制作幻灯片</h2>
-<p><img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.gif" alt="">
+<p><img src="https://denghulk.GitHub.io//post-images/1561013364206.gif" alt="">
 根据分页稿制作幻灯片
 当逐字稿和幻灯片分页确定之后，就可以放开手脚制作幻灯片了。在幻灯片制作的同时，一定要时刻记得你的演讲内容，因为两者密不可分。
 设计幻灯片是整个流程的最后一步，你将动用全身武功为幻灯片插图、做图表、排版、调字号、加动画等等。
@@ -79,30 +79,30 @@ Ken Robinson 的演讲《学校扼杀创造力？》</p>
 <p>一个幻灯片可以有很多种内容，文字、图片、图表、视频、背景等等都可以囊括在内。以上这些内容都可以展现出「视觉风格」。我们先讲讲如何构思。</p>
 <h2 id="构思你的视觉风格">构思你的视觉风格</h2>
 <p>在构思视觉风格上，苹果 2018 年 iPad 发布会的幻灯片是一个非常好的例子。即使他们开过无数场发布会，但这次的风格非常不同。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013378594.png" alt="">
 2018 年 iPad 发布会
 由于这款 iPad 是针对教育市场推出的，并且一个重大的特性是支持 Apple Pencil。于是幻灯片的视觉风格采用了一种白底黑字的配色，手写风格的字体，学生笔记一样的排版。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013390567.png" alt="">
 手写风字体，笔记一样的排版
 这样的视觉风格，是<strong>根据演讲主题确定的</strong>。所以，你也可以通过自己的演讲主题确定视觉风格。视觉风格的展现，主要体现在字体、字号、背景、配色、图片、图标这七个分方面，接下来我们一一讲解。</p>
 <h2 id="字体">字体</h2>
 <p>什么才是适合你演讲主题的字体？让我们回顾一下罗永浩演讲的字体选择改变。
 这是 2012 年罗永浩个人演讲和 2018 年的夏季新品发布会的字体对比图：
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013404693.png" alt="">
 罗永浩的个人演讲幻灯片和锤子科技的发布会幻灯片字体对比
 你会发现，无论是罗老师的穿着还是幻灯片的调性都没有变，变化最大的是幻灯片中的字体。这是因为较粗的宋体会给人笨重、刻板、复古的感觉，非常适合聊「怎样消除暴力形象」之类的话题，但却不是一家科技公司想拥有的标签。而在 2018 年，取而代之的是更加轻盈、干净的黑体，显然更加适合聊科技话题。
 另外一个例子是刘良鹏在一席的演讲《汉字小的时候》。由于话题关于汉字起源，所以在幻灯片中使用了带有书法韵味的宋体字体。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013415294.png" alt="">
 《汉字小时候》演讲截图
 这就是所谓根据演讲主题选择字体。在《作者答疑汇总 2》中，我曾给过大家一个中英文字体与含义的对照表格，可以作为你选择幻灯片字体的参照。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013427193.png" alt="">
 中文常用字体于表达含义对照表
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013435687.png" alt="">
 英文常用字体于表达含义对照表
 除此之外，当你真的不知道该选择什么字体，或者不想让幻灯片有很强个性的时候，黑体（中文）+ 非衬线体（英文）的组合永远是安全的。而且你会发现市面上很多幻灯片都是黑体 + 非衬线体的字体组合。</p>
 <h2 id="字号">字号</h2>
 <p>播放幻灯片的场景各异，大到万人的会场，小到十几个人的会议室。所以幻灯片的字号很大程度上取决于屏幕的尺寸和场馆的大小。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013453014.png" alt="">
 大到千万人的会场，小到十几人的会议室
 合适的字号满足两个条件：</p>
 <ol>
@@ -117,59 +117,60 @@ Ken Robinson 的演讲《学校扼杀创造力？》</p>
 如果是给人看的幻灯片（直接在电脑上下载阅读）可以参照正常的排版字号尺寸。标题大约 28pt，正文字号 12～16pt。</p>
 <h2 id="背景">背景</h2>
 <p>如果说幻灯片上的文字和图片是走秀的模特，那么幻灯片的背景就是模特脚下 T 型台。幻灯片背景可以使用纯色、渐变、图片、纹理四种方式，而我对幻灯片背景的设定的建议是：不喧宾夺主。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013465299.png" alt="">
 纯色、渐变、纹理、图片四种背景设定方式
 <strong>1. 纯色背景</strong>纯色是最安全的背景设定，你可以选择黑色和白色，或者接近黑色和白色的其它有色调的颜色。这样的颜色设定通常比较素雅，完全不会抢戏。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013474146.png" alt="">
 四种纯色背景
 <strong>2. 渐变背景</strong>在时长比较长的公开演讲中，渐变背景使用的次数会比较多。比起纯色背景，渐变背景也算是比较素雅，不会抢主要内容的戏份。更重要的是，渐变可以有效减少观众的视觉疲劳，适用于时间较长的演讲。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013483744.png" alt="">
 几种常用的渐变
 <strong>3. 纹理背景</strong>在纯色上面铺一层浅浅的图案或纹理，便是纹理背景。纹理背景可以作为渐变背景的一种替补方案，因为它有着和渐变背景同样的特性：不喧宾夺主且减少观众的视觉疲劳。
 这个时候图案和纹理的选择就非常的重要，一定要选择切题的纹理，比如你的演讲内容和中国传统文化有关，你便可以使用传统的回纹图案作为纹理背景。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013491263.png" alt="">
 纹理背景
 <strong>4. 图片背景</strong>使用图片作为背景，给观众的信息量有些过多。所以我并不推荐一个幻灯片从头到尾都使用图片作为背景，但是图片背景可以用在你既想要展现图片，又想要展现文字信息的那几页幻灯片中。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013499092.png" alt="">
 雾霾调查《穹顶之下》的一页图片背景幻灯片
 为了不喧宾夺主，我们通常会对图片进行变暗或者模糊的处理，让文字信息凸显出来。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013510262.png" alt="">
 对图片进行变暗或者模糊的处理
 **5. 亮色调还是暗色调？**幻灯片背景的明暗也是有讲究的。幻灯片尺寸较小的情况下（投影仪，电视机等），亮色或者白色的背景比较合适，因为这符合人们白底黑字的视觉直觉。
 但在幻灯片尺寸较大的情况下（比人更大的屏幕），幻灯片就成为了整个舞台的背景，这时背景常用暗色调，因为这样幻灯片本身不会太抢眼，整个讲台的焦点仍然可以集中在演讲者身上。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013522910.png" alt="">
 亮色调背景更抢眼
 对于时间较长的演讲，比如说产品发布会，为了避免人们的视觉疲劳。那纯色基础上加入一些渐变，也是非常常用的方法。</p>
 <h2 id="颜色">颜色</h2>
 <p>幻灯片内的配色应该如何选择呢？这个选择过程和长图的制作流程相似。
 对于品牌和机构可以使用他们已有的品牌配色方案，这样可以体现幻灯片与品牌的关联性。比如微软 Xbox One 的发布会上就大量使用了绿 + 黑 + 白作为幻灯片的配色，因为绿 + 黑 + 白是 Xbox 的品牌配色。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013532863.png" alt="">
 2013 年 XBOX One 发布会
 对于没有现成配色方案的演讲主题，你可以首先根据颜色的意义选出一个主颜色，再根据《 <a href="https://sspai.com/article/47370?series_id=67">第五章：三秒内完成配色？</a> 》所介绍的色轮配出其他颜色。你可以参考这张颜色与意义对照表，确定你的主颜色：
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013546174.png" alt="">
 颜色象征的参考表格
 比如说一款关于生命健康相关的话题，就可以使用绿色，因为绿色代表生机。然后再使用色轮工具选一个绿色的相似色（因为相似色可以表达和谐、类似），于是我选中了黄色，配色就完成了。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013554962.png" alt="">
 配色参考</p>
 <h2 id="图片">图片</h2>
 <p>图片可能是幻灯片中占比最大的内容类型，同样，图片是最有力的表达方式。
 「我去了旧金山」远没有一张金门大桥的图片，更有说服力。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013565582.png" alt="">
 图片的力量
 另外一个例子是 oculus VR 头戴设备的发布会上，研究者在解释一种「通过检测你眼镜观看位置，减少对非观看位置的渲染」，从而提升性能的技术。光听我讲，你可能已经迷茫了，但是发布会上呈现的这张图片却很好的说明这个技术：
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013574033.png" alt="">
 人眼看的地方仔细渲染，人眼没有看的地方粗略渲染
 为了在幻灯片中呈现恰当且美观的图片，我有如下的建议：
 <strong>1. 讲什么，看什么</strong>毕竟幻灯片是演讲者的辅助工具，其图片的内容一定要和演讲内容息息相关，也就是讲什么，看什么。「讲什么，看什么」听上去很简单，但我们经常因为所谓的「美观」忘记了图片与演讲内容的关联。
 比如同样是用图片表达「我去了一趟旧金山」，有人做出了两个版本：
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013584955.png" alt="">
 用图片表达「我去了一趟旧金山」
 两张图片都是旧金山的风光图，一张是黄昏的城市景象，一张是金门大桥。但对于「我去了一趟旧金山」来讲，左边的城市景象就没有做到「讲什么，看什么」。因为对不熟悉旧金山的人来说，左边的城市风光并不能说明这是旧金山，它可以是世界上任何一个繁华都市。而右边的金门大桥就明显更具有标志性，让人立刻想到旧金山，做到了「讲什么，看什么」。
-<strong>2. 保证图片清晰度</strong><img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<strong>2. 保证图片清晰度</strong>
+<img src="https://denghulk.GitHub.io//post-images/1561013598805.png" alt="">
 模糊的图片很糟糕
 演讲时图片糊掉是非常尴尬的情况。为了保证图片清晰度，你可以去  <a href="https://unsplash.com/">unsplash</a> 、 <a href="https://www.pexels.com/">pexels</a> 、 <a href="https://www.shutterstock.com/?kw=shutterstock&amp;ds_rl=1243391&amp;gclid=CjwKCAiAt4rfBRBKEiwAC678KYOKOZBj5b9XJln3PWiY6CUuQ6MUZhgBpVreNWNAwLU7sB_FgaPMXhoCkScQAvD_BwE&amp;gclsrc=aw.ds">shutterstock</a> 、 <a href="https://www.vcg.com/">视觉中国</a> 等网站下载高质量的图片。在幻灯片制作完后，最好从头到尾放映一遍检查清晰度。
 <strong>3. 克制地使用装饰性配图</strong>你一定没少看过这样的幻灯片，上面有非常多的装饰性配图。
-<img src="&amp;&amp;&amp;SFLOCALFILEPATH&amp;&amp;&amp;%E6%9C%AA%E7%9F%A5.png" alt="">
+<img src="https://denghulk.GitHub.io//post-images/1561013615030.png" alt="">
 装饰性配图
 我个人是比较反对这样的做法的。首先作为一张图片，装饰性配图是可有可无的存在。即使这张图片与内容有关，但终归不是主体，会导致观众分心。
 如果真的要为了美观插入一些装饰性的配图，我的建议是，配图的尺寸尽量小，位置在幻灯片的角落中，不要引起观众的注意。
